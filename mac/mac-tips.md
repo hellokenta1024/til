@@ -1,3 +1,15 @@
-## ショートカット
-### menu help search表示のショートカット
-cmd + shift + /
+- ctrl + f,b,p,n
+- ctrl + k,y
+- ctrl + a,e
+- ctrl + d,h
+- ctrl + shift + e,a
+- ctrl + q,w
+- cmd + tab
+- cmd + l
+- github : gi, gp
+- Google chrome : cmd + t,w,q
+- Google chrome : j,k
+- cmd + shift + / -> help
+- Slack : cmd + t
+- Alfred : option + space
+- Clipyみたいなやつ
