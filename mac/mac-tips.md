@@ -6,6 +6,9 @@
 - ctrl + q,w
 - cmd + tab
 - cmd + l
+- ctrl + option + eject -> sleep
+- ctrl + cmd + eject -> restart
+- ctrl + option + cmd + eject -> shut down
 - github : gi, gp
 - Google chrome : cmd + t,w,q
 - Google chrome : j,k
@@ -13,3 +16,4 @@
 - Slack : cmd + t
 - Alfred : option + space
 - Clipyみたいなやつ
+
