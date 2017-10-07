@@ -16,3 +16,13 @@
 - A scheme defines what happens when you press "Build", "Test", "Profile", etc.
 Usually, each target has at least one scheme
 - You can autocreate schemes for your targets by going to Scheme > Manage Schemes and pressing "Autocreate Schemes Now"
+
+## xcode-select
+
+```sh
+xcode-select --switch /Applications/Xcode.app
+```
+
+```sh
+TOOLCHAINS=com.apple.dt.toolchain.Swift_2_3 carthage update --no-use-binaries --platform ios
+```

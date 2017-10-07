@@ -1,0 +1,1 @@
+- `pod install`は`Podfile.lock`のバージョンを元にインストールしてくれて、`pod update`は最新版をインストールしてくれる

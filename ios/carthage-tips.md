@@ -1,0 +1,2 @@
+- `Cartfile.resolved`は正確なライブラリのバージョンが書いてある
+- `carthage bootstrap`コマンドは`Cartfile.resolved`にかいてあるバージョンをcheckoutしてくれるため、`carthage update` はライブラリの更新を管理する人だけが実行するようにし、その他のメンバーは `carthage bootstrap` を実行するようにすることで、全員が同じバージョンのライブラリを使っていることを保証することができる。
