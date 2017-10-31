@@ -1,3 +1,7 @@
+## Perfect
+- prior
+- before
+
 ## Progressive
 - incomplete
 - changing
@@ -12,3 +16,6 @@
 ## Past Progressive
 - an event that was repeating and ongoing in the Past
 - to make very polite requests that require social distancing
+
+## Past Perfect
+- imaginative

@@ -1,3 +1,6 @@
+## Developer Menu
+- `Command + D`
+
 ## Debug with Chrome DevTools
 - you can open it using `Command + Option + I` on Mac
 

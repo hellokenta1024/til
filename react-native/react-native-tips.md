@@ -31,3 +31,6 @@ yarn run eject
     #Removes this tool and copies build dependencies, configuration files
     #and scripts into the app directory. If you do this, you can’t go back!
 ```
+
+- Check flow version in `.flowconfig`
+- `yarn add flow-bin@0.33.0 --dev`
