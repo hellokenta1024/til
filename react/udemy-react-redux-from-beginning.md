@@ -15,3 +15,8 @@
 - lodash いろんな計算関数
 - souldComponentUpdate()ではアップデートしていいかというBoolを返す
 - exactがないと、`/`は全てのページにマッチする
+### Middleware
+- actionを受け取って変更したりする
+- ロギングなどを差し込むことが多い
+### thunk
+- section 5 ,lecture 46 => important lecture
