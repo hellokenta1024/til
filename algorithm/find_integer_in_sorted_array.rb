@@ -2,8 +2,6 @@
 Suppose we had an array ↴ of nn integers sorted in ascending order. How quickly could we check if a given integer is in the array?
 =end
 
-array = [0,1,2,3,4,6,8,9,10]
-
 def find_integer(v, array)
   return false if array.first > v || array.last < v
   return true if array.first == v || array.last == v
@@ -19,4 +17,8 @@ def find_integer(v, array)
   end
 end
 
+array = [0,1,2,3,4,6,8,9,10]
+array2 = [0, 1]
+
 puts find_integer(9,  array)
+puts find_integer(3, array2)
