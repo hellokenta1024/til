@@ -43,6 +43,6 @@ def merge_scenes(scenes)
 end
 
 #input_list = ["a","b","c", "a"]
-input_list = ["a", 'b', 'a', 'b', 'c', 'd', 'c']
+input_list = ["a", 'b', 'a', 'b', 'c', 'd', 'c', 'h', 'c', 'i', 'j', 'i', 'k']
 
-lengthEachScene(input_list)
+puts "#{lengthEachScene(input_list)}"

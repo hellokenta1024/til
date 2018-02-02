@@ -27,5 +27,3 @@ end
 
 input  = "awawawa"
 puts subStringsLessKDist(input, 3)
-
-subStringsLessKDist(input, 4)
