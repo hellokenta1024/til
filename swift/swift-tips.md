@@ -127,3 +127,6 @@ extension Storyboardable where Self: UIViewController {
 
 ## OSS
 https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e
+
+## continue in forEach
+can not use `continue` in `forEach` because `forEach` is not loop statement.
