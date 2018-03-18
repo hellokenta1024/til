@@ -16,3 +16,6 @@ searches through a file or group of files for a string
 
 # xargs
 `find . -name "*.txt" | xargs rm -rf`
+
+# setopt
+- shopt -s dotglob

@@ -27,3 +27,8 @@ git diff --cached
 git br -d <branchname>
 ```
 でブランチの削除
+
+## When files in .gitignore isn't ignored
+- `git rm -r --cached ***`
+- `--cached`
+  - Use this option to unstage and remove paths only from the index. Working tree files, whether modified or not, will be left alone.
