@@ -18,4 +18,4 @@ searches through a file or group of files for a string
 `find . -name "*.txt" | xargs rm -rf`
 
 # setopt
-- shopt -s dotglob
+- setopt -s dotglob
