@@ -66,4 +66,8 @@
 ### Tips
 - クライアントとサーバのどちらでも動作するコードをIsomorphic Javascriptと呼ぶ
 - 広いJavaScriptの動作環境を意識して記述したこーどをUniversal JavaScriptという
+
+# What happens when you call `setState`
+- merging the object you passed into `setState` into the current state of the component.
+- this will kick off a process called reconciliation
 - 
