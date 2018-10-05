@@ -32,3 +32,6 @@ git br -d <branchname>
 - `git rm -r --cached ***`
 - `--cached`
   - Use this option to unstage and remove paths only from the index. Working tree files, whether modified or not, will be left alone.
+
+## When Some files remain modified in `git status` after `git checkout <branch>`
+- `git lfs migrate import --everything --include="path/to/file"`
