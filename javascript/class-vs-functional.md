@@ -1,0 +1,2 @@
+- https://blog.kentcdodds.com/classes-complexity-and-functional-programming-a8dd86903747
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript
