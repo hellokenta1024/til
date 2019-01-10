@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/37389905/change-package-name-for-android-in-react-native
