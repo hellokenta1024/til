@@ -1,0 +1,3 @@
+- go to https://console.cloud.google.com/iam-admin/
+- add "Cloud functions service agent" role to "App Engine default service account"
+- https://github.com/googleapis/nodejs-storage/issues/150
