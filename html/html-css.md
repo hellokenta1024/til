@@ -26,3 +26,7 @@
 - ul は Unordered List の略。順序のないリスト。
 - ol は Ordered List の略。順序のあるリスト。
 - li は List Item の略。li は ul や ol などのリストの子要素。
+
+## CSSの強さ
+- タグが強い
+- important > tag > id > class
