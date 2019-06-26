@@ -12,6 +12,12 @@ searches through a file or group of files for a string
 
 `grep [ -[[AB] ]num ] [ -[EFGBchilnsvwx] ] [ -e pattern | -f file ] [ files... ]`
 
+- `-E`: 正規表現を使う
+- `-h`: 検索結果の前にファイル名をつけない
+- `-B2`: 条件にマッチした行の前2行も出力する
+- `-v`: 結果の反転
+- 
+
 ## Options
 - -i: ignore case
 - -G: user reglar expresion
