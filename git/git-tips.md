@@ -35,3 +35,23 @@ git br -d <branchname>
 
 ## When Some files remain modified in `git status` after `git checkout <branch>`
 - `git lfs migrate import --everything --include="path/to/file"`
+
+## Combine multiple commits before push for pull request
+- https://www.granfairs.com/blog/cto/git-merge-squash
+```
+# 作業ブランチをチェックアウト
+$ git fetch
+$ git checkout -b work/xxx-867 origin/develop 
+
+# git add や commit などして作業完了
+
+# Pull Request用ブランチをチェックアウト
+$ git fetch
+$ git checkout -b work/xxx origin/develop
+
+# 作業ブランチをマージ
+$ git merge --squash work/xxx-867
+
+# Pull Requestに出すコミットを作成
+$ git commit
+```
